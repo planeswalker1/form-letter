@@ -1,4 +1,6 @@
 $('form#form').submit(function(event) {
   event.preventDefault();
-  alert('form submitted');
+  let yourNameInput = $('input#yourName').val();
+  $('span.yourName').text(yourNameInput);
+  $('div#letter').fadeIn();
 });

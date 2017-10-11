@@ -4,3 +4,7 @@ $('form#form').submit(function(event) {
   $('span.yourName').text(yourNameInput);
   $('div#letter').fadeIn();
 });
+
+$('input').focus(function() {
+  $('div#letter').fadeOut();
+});

@@ -1,6 +1,6 @@
 # _form-letter_
 
-#### _practice taking form data and inserting it into DOM, 10.09.2017_
+#### _practice taking form data and inserting it into DOM, 10.10.2017_
 
 #### By _**planeswalker1**_
 
